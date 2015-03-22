@@ -3,7 +3,7 @@
 #                                                                       #
 # ARM Cortex M0 ASM for demonstrating register-only optimization for    #
 # recursive code. This code is unoptimized.                             #
-# It calculated the fibonacci number using recursion, and can easily   #
+# It calculated the fibonacci number using recursion, and can easily    #
 # take 30s-1min to calculate for higher values of n on an ARM M0.       #
 #                                                                       #
 #########################################################################
